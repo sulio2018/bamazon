@@ -12,10 +12,10 @@ This is a command line shopping app where the customer receives a list of produc
 
 ![](https://github.com/sulio2018/bamazon/blob/master/images/img1.PNG)
 
-### Purchase a product
+### Purchase a product (NBA Street 2019)
 
 ![](https://github.com/sulio2018/bamazon/blob/master/images/img2.PNG)
 
-### Database updated
+### Database quantity updated
 
 ![](https://github.com/sulio2018/bamazon/blob/master/images/img3.PNG)
