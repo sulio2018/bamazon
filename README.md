@@ -6,3 +6,9 @@ This is a command line shopping app where the customer receives a list of produc
 - Node
 - Javascript
 - MySQL
+
+## Here are a few snippets:
+
+### Get list of products
+
+![](
